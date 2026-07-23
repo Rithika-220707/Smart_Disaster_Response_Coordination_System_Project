@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad2a75ea-a1b5-4885-9c52-17e1bbe8e431" name="Changes" comment="" />
+    <list default="true" id="ad2a75ea-a1b5-4885-9c52-17e1bbe8e431" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/images of postman/Screenshot 2026-07-23 190303.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images of postman/Screenshot 2026-07-23 190318.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images of postman/Screenshot 2026-07-23 190329.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images of postman/Screenshot 2026-07-23 193447.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +32,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "feature/alert-service",
+    "git-widget-placeholder": "feature/mission/gateway",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/acer/IdeaProjects/Smart_Disaster_Response_Coordination_System_Project"
